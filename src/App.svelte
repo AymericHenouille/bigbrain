@@ -4,9 +4,9 @@
 
 <div class="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 text-gray-900">
   <!-- Header -->
-  <header class="container mx-auto flex justify-between items-center py-6 px-4">
+  <header class="container mx-auto flex justify-between items-center py-6 px-2">
     <h1 class="text-2xl font-bold tracking-tight">🧠 BIG BRAIN</h1>
-    <nav class="space-x-6">
+    <nav class="space-x-2">
       <a href="#features" class="hover:text-indigo-600">Fonctionnalités</a>
       <a href="#pricing" class="hover:text-indigo-600">Tarifs</a>
       <a href="#contact" class="hover:text-indigo-600">Contact</a>
